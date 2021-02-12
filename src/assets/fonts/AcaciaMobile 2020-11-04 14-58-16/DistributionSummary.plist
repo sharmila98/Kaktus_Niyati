@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcaciaMobile.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F9B77875DC2AB6B2D0C37017696335100C7A7C02</string>
+				<key>dateExpires</key>
+				<string>21/01/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>VK58343HUJ.com.acacia.tr</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>VK58343HUJ</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Acacia.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>510b648b-0734-4406-8a0b-9798660dc339</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.acacia.tr</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>VK58343HUJ</string>
+				<key>name</key>
+				<string>Niyati Technologies Private Limited</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
